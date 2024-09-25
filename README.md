@@ -49,7 +49,7 @@ flagUrl: URL of the country's flag image
 Example Request
 bash
 
-GET http://localhost:8888/countryInfo/UA
+GET http://localhost:8888/countries/UA
 Example Response
 json
 
